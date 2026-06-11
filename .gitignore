@@ -1,0 +1,6 @@
+cert
+node_modules
+coverage
+*.zip
+ailog.md
+*.jpg
