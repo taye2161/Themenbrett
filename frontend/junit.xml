@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="vitest tests" tests="1" failures="1" errors="0" time="1.245080209">
+    <testsuite name="tests/components/FormElementeGefunden.test.tsx" timestamp="2026-07-26T21:05:20.963Z" hostname="3645ccfd5f9d" tests="1" failures="1" errors="0" skipped="0" time="1.245080209">
+        <testcase classname="tests/components/FormElementeGefunden.test.tsx" name="Simple Happy Path" time="1.242590959">
+            <failure message="Unable to find an element with the text: Löschen. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.
+
+Ignored nodes: comments, script, style
+[36m&lt;body[39m
+  [33mclass[39m=[32m&quot;&quot;[39m
+  [33mstyle[39m=[32m&quot;&quot;[39m
+[36m&gt;[39m
+  [36m&lt;div&gt;[39m
+    [36m&lt;div&gt;[39m
+      [36m&lt;nav[39m
+        [33mclass[39m=[32m&quot;navbar navbar-expand-lg navbar-light&quot;[39m
+      [36m&gt;[39m
+        [36m&lt;div[39m
+          [33mclass[39m=[32m&quot;container&quot;[39m
+        [36m&gt;[39m
+          [36m&lt;span[39m
+            [33mclass[39m=[32m&quot;navbar-brand&quot;[39m
+          [36m&gt;[39m
+            [0mThemenbrett[0m
+          [36m&lt;/span&gt;[39m
+          [36m&lt;button[39m
+            [33maria-controls[39m=[32m&quot;basic-navbar-nav&quot;[39m
+            [33maria-label[39m=[32m&quot;Toggle navigation&quot;[39m
+            [33mclass[39m=[32m&quot;navbar-toggler collapsed&quot;[39m
+            [33mtype[39m=[32m&quot;button&quot;[39m
+          [36m&gt;[39m
+            [36m&lt;span[39m
+              [33mclass[39m=[32m&quot;navbar-toggler-icon&quot;[39m
+            [36m/&gt;[39m
+          [36m&lt;/button&gt;[39m
+          [36m&lt;div[39m
+            [33mclass[39m=[32m&quot;navbar-collapse collapse&quot;[39m
+            [33mid[39m=[32m&quot;basic-navbar-nav&quot;[39m
+          [36m&gt;[39m
+            [36m&lt;div[39m
+              [33mclass[39m=[32m&quot;ms-auto navbar-nav&quot;[39m
+            [36m&gt;[39m
+              [36m&lt;a[39m
+                [33mclass[39m=[32m&quot;nav-link&quot;[39m
+                [33mdata-rr-ui-event-key[39m=[32m&quot;/&quot;[39m
+                [33mhref[39m=[32m&quot;/&quot;[39m
+              [36m&gt;[39m
+                [0mÜbersicht[0m
+              [36m&lt;/a&gt;[39m
+              [36m&lt;a[39m
+                [33mclass[39m=[32m&quot;nav-link&quot;[39m
+                [33mdata-rr-ui-event-key[39m=[32m&quot;/prefs&quot;[39m
+                [33mhref[39m=[32m&quot;/prefs&quot;[39m
+              [36m&gt;[39m
+                [0mPrefs[0m
+              [36m&lt;/a&gt;[39m
+              [36m&lt;a[39m
+                [33mclass[39m=[32m&quot;nav-link&quot;[39m
+                [33mdata-rr-ui-event-key[39m=[32m&quot;/admin&quot;[39m
+                [33mhref[39m=[32m&quot;/admin&quot;[39m
+              [36m&gt;[39m
+                [0mAdmin[0m
+              [36m&lt;/a&gt;[39m
+              [36m&lt;a[39m
+                [33mclass[39m=[32m&quot;nav-link&quot;[39m
+                [33mhref[39m=[32m&quot;#&quot;[39m
+                [33mrole[39m=[32m&quot;button&quot;[39m
+                [33mtabindex[39m=[32m&quot;0&quot;[39m
+              [36m&gt;[39m
+                [0mLogout[0m
+              [36m&lt;/a&gt;[39m
+            [36m&lt;/div&gt;[39m
+          [36m&lt;/div&gt;[39m
+        [36m&lt;/div&gt;[39m
+      [36m&lt;/nav&gt;[39m
+      [36m&lt;div[39m
+        [33mclass[39m=[32m&quot;mt-4 container&quot;[39m
+      [36m&gt;[39m
+        [36m&lt;h1&gt;[39m
+          [0mTransfiguration[0m
+        [36m&lt;/h1&gt;[39m
+        [36m&lt;h4[39m
+          [33mclass[39m=[32m&quot;mb-4&quot;[39m
+        [36m/&gt;[39m
+        [36m&lt;div[39m
+          [33mclass[39m=[32m&quot;mb-4 list-group&quot;[39m
+        [36m&gt;[39m
+          [36m&lt;button[39m
+            [33mclass[39m=[32m&quot;list-group-item list-group-item-action&quot;[39m
+          [36m&gt;[39m
+            [0mVerwandlungen in Wölfe[0m
+          [36m&lt;/button&gt;[39m
+          [36m&lt;button[39m
+            [33mclass[39m=[32m&quot;list-group-item list-group-item-action&quot;[39m
+          [36m&gt;[39m
+            [0mVerwandlungen in Mäuse[0m
+          [36m&lt;/button&gt;[39m
+        [36m&lt;/div&gt;[39m
+        [36m&lt;h4&gt;[39m
+          [0mThemen: [0m
+          [0m2[0m
+        [36m&lt;/h4&gt;[39m
+        [36m&lt;div[39m
+          [33mclass[39m=[32m&quot;mb-3  card&quot;[39m
+          [33mid[39m=[32m&quot;201&quot;[39m
+        [36m&gt;[39m
+          [36m&lt;div[39m
+            [33mclass[39m=[32m&quot;card-body&quot;[39m
+          [36m&gt;[39m
+            [36m&lt;div[39m
+              [33mclass[39m=[32m&quot;card-title h5&quot;[39m
+            [36m&gt;[39m
+              [0mVerwandlungen in Wölfe[0m
+            [36m&lt;/div&gt;[39m
+            [36m&lt;p[39m
+              [33mclass[39m=[32m&quot;card-text&quot;[39m
+            [36m&gt;[39m
+              [36m&lt;strong&gt;[39m
+                [0mAbschluss:[0m
+              [36m&lt;/strong&gt;[39m
+              [0m [0m
+              [0mbsc[0m
+              [36m&lt;br /&gt;[39m
+              [36m&lt;strong&gt;[39m
+                [0mStatus:[0m
+              [36m&lt;/strong&gt;[39m
+              [0m [0m
+              [0moffen[0m
+              [36m&lt;br /&gt;[39m
+              [36m&lt;strong&gt;[39m
+                [0mBetreuer:[0m
+              [36m&lt;/strong&gt;[39m
+              [0m [0m
+              [0mMinerva McGonagall[0m
+              [36m&lt;br /&gt;[39m
+              [36m&lt;strong&gt;[39m
+                [0mLetzte Änderung:[0m
+              [36m&lt;/strong&gt;[39m
+              [0m [0m
+              [0m01.11.2024[0m
+              [36m&lt;br /&gt;[39m
+              [36m&lt;strong&gt;[39m
+                [0mBeschreibung:[0m
+              [36m&lt;/strong&gt;[39m
+              [0m [0m
+              [0mWie verwandelt man sich ein einen Wolf unter besonderer Berücksichtigung von brandeburgischen Wölfen?[0m
+              [36m&lt;br /&gt;[39m
+            [36m&lt;/p&gt;[39m
+            [36m&lt;a[39m
+              [33mclass[39m=[32m&quot;btn btn-primary&quot;[39m
+              [33mhref[39m=[32m&quot;/thema/201&quot;[39m
+              [33mrole[39m=[32m&quot;button&quot;[39m
+              [33mtabindex[39m=[32m&quot;0&quot;[39m
+            [36m&gt;[39m
+              [0mAnsicht[0m
+            [36m&lt;/a&gt;[39m
+          [36m&lt;/div&gt;[39m
+        [36m&lt;/div&gt;[39m
+        [36m&lt;div[39m
+          [33mclass[39m=[32m&quot;mb-3  card&quot;[39m
+          [33mid[39m=[32m&quot;202&quot;[39m
+        [36m&gt;[39m
+          [36m&lt;div[39m
+            [33mclass[39m=[32m&quot;card-body&quot;[39m
+          [36m&gt;[39m
+            [36m&lt;div[39m
+              [33mclass[39m=[32m&quot;card-title h5&quot;[39m
+            [36m&gt;[39m
+              [0mVerwandlungen in Mäuse[0m
+            [36m&lt;/div&gt;[39m
+            [36m&lt;p[39m
+              [33mclass[39m=[32m&quot;card-text&quot;[39m
+            [36m&gt;[39m
+              [36m&lt;strong&gt;[39m
+                [0mAbschluss:[0m
+              [36m&lt;/strong&gt;[39m
+              [0m [0m
+              [0mbsc[0m
+              [36m&lt;br /&gt;[39m
+              [36m&lt;strong&gt;[39m
+                [0mStatus:[0m
+              [36m&lt;/strong&gt;[39m
+              [0m [0m
+              [0moffen[0m
+              [36m&lt;br /&gt;[39m
+              [36m&lt;strong&gt;[39m
+                [0mBetreuer:[0m
+              [36m&lt;/strong&gt;[39m
+              [0m [0m
+              [0mMinerva McGonagall[0m
+              [36m&lt;br /&gt;[39m
+              [36m&lt;strong&gt;[39m
+                [0mLetzte Änderung:[0m
+              [36m&lt;/strong&gt;[39m
+              [0m [0m
+              [0m02.11.2024[0m
+              [36m&lt;br /&gt;[39m
+              [36m&lt;strong&gt;[39m
+                [0mBeschreibung:[0m
+              [36m&lt;/strong&gt;[39m
+              [0m [0m
+              [0mWie verwandelt man sich eine Maus unter besonderer Berücksichtigung von Stadtmäusen?[0m
+              [36m&lt;br /&gt;[39m
+            [36m&lt;/p&gt;[39m
+            [36m&lt;a[39m
+              [33mclass[39m=[32m&quot;btn btn-primary&quot;[39m
+              [33mhref[39m=[32m&quot;/thema/202&quot;[39m
+              [33mrole[39m=[32m&quot;button&quot;[39m
+              [33mtabindex[39m=[32m&quot;0&quot;[39m
+            [36m&gt;[39m
+              [0mAnsicht[0m
+            [36m&lt;/a&gt;[39m
+          [36m&lt;/div&gt;[39m
+        [36m&lt;/div&gt;[39m
+        [36m&lt;a[39m
+          [33mclass[39m=[32m&quot;mb-4 me-2 btn btn-primary&quot;[39m
+          [33mhref[39m=[32m&quot;/&quot;[39m
+          [33mrole[39m=[32m&quot;button&quot;[39m
+          [33mtabindex[39m=[32m&quot;0&quot;[39m
+        [36m&gt;[39m
+          [0mZurück zur Übersicht[0m
+        [36m&lt;/a&gt;[39m
+        [36m&lt;button[39m
+          [33mclass[39m=[32m&quot;mb-4 me-2 btn btn-primary&quot;[39m
+          [33mtype[39m=[32m&quot;button&quot;[39m
+        [36m&gt;[39m
+          [0mEditieren[0m
+        [36m&lt;/button&gt;[39m
+        [36m&lt;a[39m
+          [33mclass[39m=[32m&quot;mb-4 me-2 btn btn-primary&quot;[39m
+          [33mhref[39m=[32m&quot;/gebiet/101/thema/neu&quot;[39m
+          [33mrole[39m=[32m&quot;button&quot;[39m
+          [33mtabindex[39m=[32m&quot;0&quot;[39m
+        [36m&gt;[39m
+          [0mNeues Thema[0m
+        [36m&lt;/a&gt;[39m
+      [36m&lt;/div&gt;[39m
+    [36m&lt;/div&gt;[39m
+  [36m&lt;/div&gt;[39m
+[36m&lt;/body&gt;[39m
+
+Ignored nodes: comments, script, style
+[36m&lt;html&gt;[39m
+  [36m&lt;head /&gt;[39m
+  [36m&lt;body[39m
+    [33mclass[39m=[32m&quot;&quot;[39m
+    [33mstyle[39m=[32m&quot;&quot;[39m
+  [36m&gt;[39m
+    [36m&lt;div&gt;[39m
+      [36m&lt;div&gt;[39m
+        [36m&lt;nav[39m
+          [33mclass[39m=[32m&quot;navbar navbar-expand-lg navbar-light&quot;[39m
+        [36m&gt;[39m
+          [36m&lt;div[39m
+            [33mclass[39m=[32m&quot;container&quot;[39m
+          [36m&gt;[39m
+            [36m&lt;span[39m
+              [33mclass[39m=[32m&quot;navbar-brand&quot;[39m
+            [36m&gt;[39m
+              [0mThemenbrett[0m
+            [36m&lt;/span&gt;[39m
+            [36m&lt;button[39m
+              [33maria-controls[39m=[32m&quot;basic-navbar-nav&quot;[39m
+              [33maria-label[39m=[32m&quot;Toggle navigation&quot;[39m
+              [33mclass[39m=[32m&quot;navbar-toggler collapsed&quot;[39m
+              [33mtype[39m=[32m&quot;button&quot;[39m
+            [36m&gt;[39m
+              [36m&lt;span[39m
+                [33mclass[39m=[32m&quot;navbar-toggler-icon&quot;[39m
+              [36m/&gt;[39m
+            [36m&lt;/button&gt;[39m
+            [36m&lt;div[39m
+              [33mclass[39m=[32m&quot;navbar-collapse collapse&quot;[39m
+              [33mid[39m=[32m&quot;basic-navbar-nav&quot;[39m
+            [36m&gt;[39m
+              [36m&lt;div[39m
+                [33mclass[39m=[32m&quot;ms-auto navbar-nav&quot;[39m
+              [36m&gt;[39m
+                [36m&lt;a[39m
+                  [33mclass[39m=[32m&quot;nav-link&quot;[39m
+                  [33mdata-rr-ui-event-key[39m=[32m&quot;/&quot;[39m
+                  [33mhref[39m=[32m&quot;/&quot;[39m
+                [36m&gt;[39m
+                  [0mÜbersicht[0m
+                [36m&lt;/a&gt;[39m
+                [36m&lt;a[39m
+                  [33mclass[39m=[32m&quot;nav-link&quot;[39m
+                  [33mdata-rr-ui-event-key[39m=[32m&quot;/prefs&quot;[39m
+                  [33mhref[39m=[32m&quot;/prefs&quot;[39m
+                [36m&gt;[39m
+                  [0mPrefs[0m
+                [36m&lt;/a&gt;[39m
+                [36m&lt;a[39m
+                  [33mclass[39m=[32m&quot;nav-link&quot;[39m
+                  [33mdata-rr-ui-event-key[39m=[32m&quot;/admin&quot;[39m
+                  [33mhref[39m=[32m&quot;/admin&quot;[39m
+                [36m&gt;[39m
+                  [0mAdmin[0m
+                [36m&lt;/a&gt;[39m
+                [36m&lt;a[39m
+                  [33mclass[39m=[32m&quot;nav-link&quot;[39m
+                  [33mhref[39m=[32m&quot;#&quot;[39m
+                  [33mrole[39m=[32m&quot;button&quot;[39m
+                  [33mtabindex[39m=[32m&quot;0&quot;[39m
+                [36m&gt;[39m
+                  [0mLogout[0m
+                [36m&lt;/a&gt;[39m
+              [36m&lt;/div&gt;[39m
+            [36m&lt;/div&gt;[39m
+          [36m&lt;/div&gt;[39m
+        [36m&lt;/nav&gt;[39m
+        [36m&lt;div[39m
+          [33mclass[39m=[32m&quot;mt-4 container&quot;[39m
+        [36m&gt;[39m
+          [36m&lt;h1&gt;[39m
+            [0mTransfiguration[0m
+          [36m&lt;/h1&gt;[39m
+          [36m&lt;h4[39m
+            [33mclass[39m=[32m&quot;mb-4&quot;[39m
+          [36m/&gt;[39m
+          [36m&lt;div[39m
+            [33mclass[39m=[32m&quot;mb-4 list-group&quot;[39m
+          [36m&gt;[39m
+            [36m&lt;button[39m
+              [33mclass[39m=[32m&quot;list-group-item list-group-item-action&quot;[39m
+            [36m&gt;[39m
+              [0mVerwandlungen in Wölfe[0m
+            [36m&lt;/button&gt;[39m
+            [36m&lt;button[39m
+              [33mclass[39m=[32m&quot;list-group-item list-group-item-action&quot;[39m
+            [36m&gt;[39m
+              [0mVerwandlungen in Mäuse[0m
+            [36m&lt;/button&gt;[39m
+          [36m&lt;/div&gt;[39m
+          [36m&lt;h4&gt;[39m
+            [0mThemen: [0m
+            [0m2[0m
+          [36m&lt;/h4&gt;[39m
+          [36m&lt;div[39m
+            [33mclass[39m=[32m&quot;mb-3  card&quot;[39m
+            [33mid[39m=[32m&quot;201&quot;[39m
+          [36m&gt;[39m
+            [36m&lt;div[39m
+              [33mclass[39m=[32m&quot;card-body&quot;[39m
+            [36m&gt;[39m
+              [36m&lt;div[39m
+                [33mclass[39m=[32m&quot;card-title h5&quot;[39m
+              [36m&gt;[39m
+                [0mVerwandlungen in Wölfe[0m
+              [36m&lt;/div&gt;[39m
+              [36m&lt;p[39m
+                [33mclass[39m=[32m&quot;card-text&quot;[39m
+              [36m&gt;[39m
+                [36m&lt;strong&gt;[39m
+                  [0mAbschluss:[0m
+                [36m&lt;/strong&gt;[39m
+                [0m [0m
+                [0mbsc[0m
+                [36m&lt;br /&gt;[39m
+                [36m&lt;strong&gt;[39m
+                  [0mStatus:[0m
+                [36m&lt;/strong&gt;[39m
+                [0m [0m
+                [0moffen[0m
+                [36m&lt;br /&gt;[39m
+                [36m&lt;strong&gt;[39m
+                  [0mBetreuer:[0m
+                [36m&lt;/strong&gt;[39m
+                [0m [0m
+                [0mMinerva McGonagall[0m
+                [36m&lt;br /&gt;[39m
+                [36m&lt;strong&gt;[39m
+                  [0mLetzte Änderung:[0m
+                [36m&lt;/strong&gt;[39m
+                [0m [0m
+                [0m01.11.2024[0m
+                [36m&lt;br /&gt;[39m
+                [36m&lt;strong&gt;[39m
+                  [0mBeschreibung:[0m
+                [36m&lt;/strong&gt;[39m
+                [0m [0m
+                [0mWie verwandelt man sich ein einen Wolf unter besonderer Berücksichtigung von brandeburgischen Wölfen?[0m
+                [36m&lt;br /&gt;[39m
+              [36m&lt;/p&gt;[39m
+              [36m&lt;a[39m
+                [33mclass[39m=[32m&quot;btn btn-primary&quot;[39m
+                [33mhref[39m=[32m&quot;/thema/201&quot;[39m
+                [33mrole[39m=[32m&quot;button&quot;[39m
+                [33mtabindex[39m=[32m&quot;0&quot;[39m
+              [36m&gt;[39m
+                [0mAnsicht[0m
+              [36m&lt;/a&gt;[39m
+            [36m&lt;/div&gt;[39m
+          [36m&lt;/div&gt;[39m
+          [36m&lt;div[39m
+            [33mclass[39m=[32m&quot;mb-3  card&quot;[39m
+            [33mid[39m=[32m&quot;202&quot;[39m
+          [36m&gt;[39m
+            [36m&lt;div[39m
+              [33mclass[39m=[32m&quot;card-body&quot;[39m
+            [36m&gt;[39m
+              [36m&lt;div[39m
+                [33mclass[39m=[32m&quot;card-title h5&quot;[39m
+              [36m&gt;[39m
+                [0mVerwandlungen in Mäuse[0m
+              [36m&lt;/div&gt;[39m
+              [36m&lt;p[39m
+                [33mclass[39m=[32m&quot;card-text&quot;[39m
+              [36m&gt;[39m
+                [36m&lt;strong&gt;[39m
+                  [0mAbschluss:[0m
+                [36m&lt;/strong&gt;[39m
+                [0m [0m
+                [0mbsc[0m
+                [36m&lt;br /&gt;[39m
+                [36m&lt;strong&gt;[39m
+                  [0mStatus:[0m
+                [36m&lt;/strong&gt;[39m
+                [0m [0m
+                [0moffen[0m
+                [36m&lt;br /&gt;[39m
+                [36m&lt;strong&gt;[39m
+                  [0mBetreuer:[0m
+                [36m&lt;/strong&gt;[39m
+                [0m [0m
+                [0mMinerva McGonagall[0m
+                [36m&lt;br /&gt;[39m
+                [36m&lt;strong&gt;[39m
+                  [0mLetzte Änderung:[0m
+                [36m&lt;/strong&gt;[39m
+                [0m [0m
+                [0m02.11.2024[0m
+                [36m&lt;br /&gt;[39m
+                [36m&lt;strong&gt;[39m
+                  [0mBeschreibung:[0m
+                [36m&lt;/strong&gt;[39m
+                [0m [0m
+                [0mWie verwandelt man sich eine Maus unter besonderer Berücksichtigung von Stadtmäusen?[0m
+                [36m&lt;br /&gt;[39m
+              [36m&lt;/p&gt;[39m
+              [36m&lt;a[39m
+                [33mclass[39m=[32m&quot;btn btn-primary&quot;[39m
+                [33mhref[39m=[32m&quot;/thema/202&quot;[39m
+                [33mrole[39m=[32m&quot;button&quot;[39m
+                [33mtabindex[39m=[32m&quot;0&quot;[39m
+              [36m&gt;[39m
+                [0mAnsicht[0m
+              [36m&lt;/a&gt;[39m
+            [36m&lt;/div&gt;[39m
+          [36m&lt;/div&gt;[39m
+          [36m&lt;a[39m
+            [33mclass[39m=[32m&quot;mb-4 me-2 btn btn-primary&quot;[39m
+            [33mhref[39m=[32m&quot;/&quot;[39m
+            [33mrole[39m=[32m&quot;button&quot;[39m
+            [33mtabindex[39m=[32m&quot;0&quot;[39m
+          [36m&gt;[39m
+            [0mZurück zur Übersicht[0m
+          [36m&lt;/a&gt;[39m
+          [36m&lt;button[39m
+            [33mclass[39m=[32m&quot;mb-4 me-2 btn btn-primary&quot;[39m
+            [33mtype[39m=[32m&quot;button&quot;[39m
+          [36m&gt;[39m
+            [0mEditieren[0m
+          [36m&lt;/button&gt;[39m
+          [36m&lt;a[39m
+            [33mclass[39m=[32m&quot;mb-4 me-2 btn btn-primary&quot;[39m
+            [33mhref[39m=[32m&quot;/gebiet/101/thema/neu&quot;[39m
+            [33mrole[39m=[32m&quot;button&quot;[39m
+            [33mtabindex[39m=[32m&quot;0&quot;[39m
+          [36m&gt;[39m
+            [0mNeues Thema[0m
+          [36m&lt;/a&gt;[39m
+        [36m&lt;/div&gt;[39m
+      [36m&lt;/div&gt;[39m
+    [36m&lt;/div&gt;[39m
+  [36m&lt;/body&gt;[39m
+[36m&lt;/html&gt;[39m" type="TestingLibraryElementError">
+TestingLibraryElementError: Unable to find an element with the text: Löschen. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.
+
+Ignored nodes: comments, script, style
+&lt;body
+  class=&quot;&quot;
+  style=&quot;&quot;
+&gt;
+  &lt;div&gt;
+    &lt;div&gt;
+      &lt;nav
+        class=&quot;navbar navbar-expand-lg navbar-light&quot;
+      &gt;
+        &lt;div
+          class=&quot;container&quot;
+        &gt;
+          &lt;span
+            class=&quot;navbar-brand&quot;
+          &gt;
+            Themenbrett
+          &lt;/span&gt;
+          &lt;button
+            aria-controls=&quot;basic-navbar-nav&quot;
+            aria-label=&quot;Toggle navigation&quot;
+            class=&quot;navbar-toggler collapsed&quot;
+            type=&quot;button&quot;
+          &gt;
+            &lt;span
+              class=&quot;navbar-toggler-icon&quot;
+            /&gt;
+          &lt;/button&gt;
+          &lt;div
+            class=&quot;navbar-collapse collapse&quot;
+            id=&quot;basic-navbar-nav&quot;
+          &gt;
+            &lt;div
+              class=&quot;ms-auto navbar-nav&quot;
+            &gt;
+              &lt;a
+                class=&quot;nav-link&quot;
+                data-rr-ui-event-key=&quot;/&quot;
+                href=&quot;/&quot;
+              &gt;
+                Übersicht
+              &lt;/a&gt;
+              &lt;a
+                class=&quot;nav-link&quot;
+                data-rr-ui-event-key=&quot;/prefs&quot;
+                href=&quot;/prefs&quot;
+              &gt;
+                Prefs
+              &lt;/a&gt;
+              &lt;a
+                class=&quot;nav-link&quot;
+                data-rr-ui-event-key=&quot;/admin&quot;
+                href=&quot;/admin&quot;
+              &gt;
+                Admin
+              &lt;/a&gt;
+              &lt;a
+                class=&quot;nav-link&quot;
+                href=&quot;#&quot;
+                role=&quot;button&quot;
+                tabindex=&quot;0&quot;
+              &gt;
+                Logout
+              &lt;/a&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/nav&gt;
+      &lt;div
+        class=&quot;mt-4 container&quot;
+      &gt;
+        &lt;h1&gt;
+          Transfiguration
+        &lt;/h1&gt;
+        &lt;h4
+          class=&quot;mb-4&quot;
+        /&gt;
+        &lt;div
+          class=&quot;mb-4 list-group&quot;
+        &gt;
+          &lt;button
+            class=&quot;list-group-item list-group-item-action&quot;
+          &gt;
+            Verwandlungen in Wölfe
+          &lt;/button&gt;
+          &lt;button
+            class=&quot;list-group-item list-group-item-action&quot;
+          &gt;
+            Verwandlungen in Mäuse
+          &lt;/button&gt;
+        &lt;/div&gt;
+        &lt;h4&gt;
+          Themen: 
+          2
+        &lt;/h4&gt;
+        &lt;div
+          class=&quot;mb-3  card&quot;
+          id=&quot;201&quot;
+        &gt;
+          &lt;div
+            class=&quot;card-body&quot;
+          &gt;
+            &lt;div
+              class=&quot;card-title h5&quot;
+            &gt;
+              Verwandlungen in Wölfe
+            &lt;/div&gt;
+            &lt;p
+              class=&quot;card-text&quot;
+            &gt;
+              &lt;strong&gt;
+                Abschluss:
+              &lt;/strong&gt;
+               
+              bsc
+              &lt;br /&gt;
+              &lt;strong&gt;
+                Status:
+              &lt;/strong&gt;
+               
+              offen
+              &lt;br /&gt;
+              &lt;strong&gt;
+                Betreuer:
+              &lt;/strong&gt;
+               
+              Minerva McGonagall
+              &lt;br /&gt;
+              &lt;strong&gt;
+                Letzte Änderung:
+              &lt;/strong&gt;
+               
+              01.11.2024
+              &lt;br /&gt;
+              &lt;strong&gt;
+                Beschreibung:
+              &lt;/strong&gt;
+               
+              Wie verwandelt man sich ein einen Wolf unter besonderer Berücksichtigung von brandeburgischen Wölfen?
+              &lt;br /&gt;
+            &lt;/p&gt;
+            &lt;a
+              class=&quot;btn btn-primary&quot;
+              href=&quot;/thema/201&quot;
+              role=&quot;button&quot;
+              tabindex=&quot;0&quot;
+            &gt;
+              Ansicht
+            &lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div
+          class=&quot;mb-3  card&quot;
+          id=&quot;202&quot;
+        &gt;
+          &lt;div
+            class=&quot;card-body&quot;
+          &gt;
+            &lt;div
+              class=&quot;card-title h5&quot;
+            &gt;
+              Verwandlungen in Mäuse
+            &lt;/div&gt;
+            &lt;p
+              class=&quot;card-text&quot;
+            &gt;
+              &lt;strong&gt;
+                Abschluss:
+              &lt;/strong&gt;
+               
+              bsc
+              &lt;br /&gt;
+              &lt;strong&gt;
+                Status:
+              &lt;/strong&gt;
+               
+              offen
+              &lt;br /&gt;
+              &lt;strong&gt;
+                Betreuer:
+              &lt;/strong&gt;
+               
+              Minerva McGonagall
+              &lt;br /&gt;
+              &lt;strong&gt;
+                Letzte Änderung:
+              &lt;/strong&gt;
+               
+              02.11.2024
+              &lt;br /&gt;
+              &lt;strong&gt;
+                Beschreibung:
+              &lt;/strong&gt;
+               
+              Wie verwandelt man sich eine Maus unter besonderer Berücksichtigung von Stadtmäusen?
+              &lt;br /&gt;
+            &lt;/p&gt;
+            &lt;a
+              class=&quot;btn btn-primary&quot;
+              href=&quot;/thema/202&quot;
+              role=&quot;button&quot;
+              tabindex=&quot;0&quot;
+            &gt;
+              Ansicht
+            &lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;a
+          class=&quot;mb-4 me-2 btn btn-primary&quot;
+          href=&quot;/&quot;
+          role=&quot;button&quot;
+          tabindex=&quot;0&quot;
+        &gt;
+          Zurück zur Übersicht
+        &lt;/a&gt;
+        &lt;button
+          class=&quot;mb-4 me-2 btn btn-primary&quot;
+          type=&quot;button&quot;
+        &gt;
+          Editieren
+        &lt;/button&gt;
+        &lt;a
+          class=&quot;mb-4 me-2 btn btn-primary&quot;
+          href=&quot;/gebiet/101/thema/neu&quot;
+          role=&quot;button&quot;
+          tabindex=&quot;0&quot;
+        &gt;
+          Neues Thema
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/body&gt;
+
+Ignored nodes: comments, script, style
+&lt;html&gt;
+  &lt;head /&gt;
+  &lt;body
+    class=&quot;&quot;
+    style=&quot;&quot;
+  &gt;
+    &lt;div&gt;
+      &lt;div&gt;
+        &lt;nav
+          class=&quot;navbar navbar-expand-lg navbar-light&quot;
+        &gt;
+          &lt;div
+            class=&quot;container&quot;
+          &gt;
+            &lt;span
+              class=&quot;navbar-brand&quot;
+            &gt;
+              Themenbrett
+            &lt;/span&gt;
+            &lt;button
+              aria-controls=&quot;basic-navbar-nav&quot;
+              aria-label=&quot;Toggle navigation&quot;
+              class=&quot;navbar-toggler collapsed&quot;
+              type=&quot;button&quot;
+            &gt;
+              &lt;span
+                class=&quot;navbar-toggler-icon&quot;
+              /&gt;
+            &lt;/button&gt;
+            &lt;div
+              class=&quot;navbar-collapse collapse&quot;
+              id=&quot;basic-navbar-nav&quot;
+            &gt;
+              &lt;div
+                class=&quot;ms-auto navbar-nav&quot;
+              &gt;
+                &lt;a
+                  class=&quot;nav-link&quot;
+                  data-rr-ui-event-key=&quot;/&quot;
+                  href=&quot;/&quot;
+                &gt;
+                  Übersicht
+                &lt;/a&gt;
+                &lt;a
+                  class=&quot;nav-link&quot;
+                  data-rr-ui-event-key=&quot;/prefs&quot;
+                  href=&quot;/prefs&quot;
+                &gt;
+                  Prefs
+                &lt;/a&gt;
+                &lt;a
+                  class=&quot;nav-link&quot;
+                  data-rr-ui-event-key=&quot;/admin&quot;
+                  href=&quot;/admin&quot;
+                &gt;
+                  Admin
+                &lt;/a&gt;
+                &lt;a
+                  class=&quot;nav-link&quot;
+                  href=&quot;#&quot;
+                  role=&quot;button&quot;
+                  tabindex=&quot;0&quot;
+                &gt;
+                  Logout
+                &lt;/a&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/nav&gt;
+        &lt;div
+          class=&quot;mt-4 container&quot;
+        &gt;
+          &lt;h1&gt;
+            Transfiguration
+          &lt;/h1&gt;
+          &lt;h4
+            class=&quot;mb-4&quot;
+          /&gt;
+          &lt;div
+            class=&quot;mb-4 list-group&quot;
+          &gt;
+            &lt;button
+              class=&quot;list-group-item list-group-item-action&quot;
+            &gt;
+              Verwandlungen in Wölfe
+            &lt;/button&gt;
+            &lt;button
+              class=&quot;list-group-item list-group-item-action&quot;
+            &gt;
+              Verwandlungen in Mäuse
+            &lt;/button&gt;
+          &lt;/div&gt;
+          &lt;h4&gt;
+            Themen: 
+            2
+          &lt;/h4&gt;
+          &lt;div
+            class=&quot;mb-3  card&quot;
+            id=&quot;201&quot;
+          &gt;
+            &lt;div
+              class=&quot;card-body&quot;
+            &gt;
+              &lt;div
+                class=&quot;card-title h5&quot;
+              &gt;
+                Verwandlungen in Wölfe
+              &lt;/div&gt;
+              &lt;p
+                class=&quot;card-text&quot;
+              &gt;
+                &lt;strong&gt;
+                  Abschluss:
+                &lt;/strong&gt;
+                 
+                bsc
+                &lt;br /&gt;
+                &lt;strong&gt;
+                  Status:
+                &lt;/strong&gt;
+                 
+                offen
+                &lt;br /&gt;
+                &lt;strong&gt;
+                  Betreuer:
+                &lt;/strong&gt;
+                 
+                Minerva McGonagall
+                &lt;br /&gt;
+                &lt;strong&gt;
+                  Letzte Änderung:
+                &lt;/strong&gt;
+                 
+                01.11.2024
+                &lt;br /&gt;
+                &lt;strong&gt;
+                  Beschreibung:
+                &lt;/strong&gt;
+                 
+                Wie verwandelt man sich ein einen Wolf unter besonderer Berücksichtigung von brandeburgischen Wölfen?
+                &lt;br /&gt;
+              &lt;/p&gt;
+              &lt;a
+                class=&quot;btn btn-primary&quot;
+                href=&quot;/thema/201&quot;
+                role=&quot;button&quot;
+                tabindex=&quot;0&quot;
+              &gt;
+                Ansicht
+              &lt;/a&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div
+            class=&quot;mb-3  card&quot;
+            id=&quot;202&quot;
+          &gt;
+            &lt;div
+              class=&quot;card-body&quot;
+            &gt;
+              &lt;div
+                class=&quot;card-title h5&quot;
+              &gt;
+                Verwandlungen in Mäuse
+              &lt;/div&gt;
+              &lt;p
+                class=&quot;card-text&quot;
+              &gt;
+                &lt;strong&gt;
+                  Abschluss:
+                &lt;/strong&gt;
+                 
+                bsc
+                &lt;br /&gt;
+                &lt;strong&gt;
+                  Status:
+                &lt;/strong&gt;
+                 
+                offen
+                &lt;br /&gt;
+                &lt;strong&gt;
+                  Betreuer:
+                &lt;/strong&gt;
+                 
+                Minerva McGonagall
+                &lt;br /&gt;
+                &lt;strong&gt;
+                  Letzte Änderung:
+                &lt;/strong&gt;
+                 
+                02.11.2024
+                &lt;br /&gt;
+                &lt;strong&gt;
+                  Beschreibung:
+                &lt;/strong&gt;
+                 
+                Wie verwandelt man sich eine Maus unter besonderer Berücksichtigung von Stadtmäusen?
+                &lt;br /&gt;
+              &lt;/p&gt;
+              &lt;a
+                class=&quot;btn btn-primary&quot;
+                href=&quot;/thema/202&quot;
+                role=&quot;button&quot;
+                tabindex=&quot;0&quot;
+              &gt;
+                Ansicht
+              &lt;/a&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;a
+            class=&quot;mb-4 me-2 btn btn-primary&quot;
+            href=&quot;/&quot;
+            role=&quot;button&quot;
+            tabindex=&quot;0&quot;
+          &gt;
+            Zurück zur Übersicht
+          &lt;/a&gt;
+          &lt;button
+            class=&quot;mb-4 me-2 btn btn-primary&quot;
+            type=&quot;button&quot;
+          &gt;
+            Editieren
+          &lt;/button&gt;
+          &lt;a
+            class=&quot;mb-4 me-2 btn btn-primary&quot;
+            href=&quot;/gebiet/101/thema/neu&quot;
+            role=&quot;button&quot;
+            tabindex=&quot;0&quot;
+          &gt;
+            Neues Thema
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+ ❯ waitForWrapper node_modules/@testing-library/dom/dist/wait-for.js:163:27
+ ❯ tests/components/FormElementeGefunden.test.tsx:98:11
+            </failure>
+        </testcase>
+    </testsuite>
+</testsuites>

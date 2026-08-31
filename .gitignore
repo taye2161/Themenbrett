@@ -4,3 +4,4 @@ coverage
 *.zip
 ailog.md
 *.jpg
+.DS*

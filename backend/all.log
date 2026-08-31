@@ -1,0 +1,1220 @@
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:36377/
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+warn: Anmeldeversuch fehlgeschlagen: CampusID gibtsNicht nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+warn: Anmeldeversuch fehlgeschlagen: CampusID gibtsNicht nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+warn: Anmeldeversuch fehlgeschlagen: CampusID gibtsNicht nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+warn: Anmeldeversuch fehlgeschlagen: CampusID gibtsNicht nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+warn: Anmeldeversuch fehlgeschlagen: CampusID gibtsNicht nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+warn: Anmeldeversuch fehlgeschlagen: CampusID gibtsNicht nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+warn: Anmeldeversuch fehlgeschlagen: CampusID gibtsNicht nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+error: Fehler in verifyJWT: JsonWebTokenError: jwt malformed
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+warn: Anmeldeversuch fehlgeschlagen: CampusID gibtsNicht nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+error: Fehler in verifyJWT: JsonWebTokenError: jwt malformed
+error: JWT ist nicht gueltig
+error: Fehler in verifyJWT: Error: Internal Server Error
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+warn: Anmeldeversuch fehlgeschlagen: CampusID gibtsNicht nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+error: Fehler in verifyJWT: JsonWebTokenError: jwt malformed
+error: JWT ist nicht gueltig
+error: Fehler in verifyJWT: Error: Internal Server Error
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+warn: Anmeldeversuch fehlgeschlagen: CampusID gibtsNicht nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+error: Fehler in verifyJWT: JsonWebTokenError: jwt malformed
+error: JWT ist nicht gueltig
+error: Fehler in verifyJWT: Error: Internal Server Error
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+error: Fehler in verifyJWT: JsonWebTokenError: invalid signature
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+warn: Anmeldeversuch fehlgeschlagen: CampusID gibtsNicht nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+error: Fehler in verifyJWT: JsonWebTokenError: jwt malformed
+error: JWT ist nicht gueltig
+error: Fehler in verifyJWT: Error: Internal Server Error
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+error: Fehler in verifyJWT: JsonWebTokenError: invalid signature
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+warn: Anmeldeversuch fehlgeschlagen: CampusID gibtsNicht nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+error: Fehler in verifyJWT: JsonWebTokenError: jwt malformed
+error: JWT ist nicht gueltig
+error: Fehler in verifyJWT: Error: Internal Server Error
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+error: Fehler in verifyJWT: JsonWebTokenError: invalid signature
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+warn: Anmeldeversuch fehlgeschlagen: CampusID gibtsNicht nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+error: Fehler in verifyJWT: JsonWebTokenError: jwt malformed
+error: JWT ist nicht gueltig
+error: Fehler in verifyJWT: Error: Internal Server Error
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+error: Fehler in verifyJWT: JsonWebTokenError: invalid signature
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+error: Fehler in verifyJWT: TokenExpiredError: jwt expired
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof02 erstellt.
+error: Fehler im GET /api/login Router: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof02 erstellt.
+error: Fehler im GET /api/login Router: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof02 erstellt.
+error: Fehler im GET /api/login Router: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof02 erstellt.
+error: Fehler im GET /api/login Router: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof02 erstellt.
+error: Fehler im GET /api/login Router: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof02 erstellt.
+error: Fehler im GET /api/login Router: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof02 erstellt.
+error: Fehler im GET /api/login Router: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+info: Erfolgreicher Login. JWT für CampusID prof02 erstellt.
+error: Fehler im GET /api/login Router: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+info: Erfolgreicher Login. JWT für CampusID prof02 erstellt.
+error: Fehler im GET /api/login Router: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+info: Erfolgreicher Login. JWT für CampusID prof02 erstellt.
+error: Fehler im GET /api/login Router: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+info: Erfolgreicher Login. JWT für CampusID prof02 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof02 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof02 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof02 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof02 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof02 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof02 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof02 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+warn: Anmeldeversuch fehlgeschlagen: CampusID gibtsNicht nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+error: Fehler in verifyJWT: JsonWebTokenError: jwt malformed
+error: JWT ist nicht gueltig
+error: Fehler in verifyJWT: Error: Internal Server Error
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+error: Fehler in verifyJWT: JsonWebTokenError: invalid signature
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+error: Fehler in verifyJWT: TokenExpiredError: jwt expired
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof02 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID betreuer01 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID betreuer01 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID betreuer01 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID betreuer01 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID betreuer01 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID betreuer01 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID betreuer01 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID betreuer01 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID betreuer01 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID betreuer01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID betreuer01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID betreuer01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID betreuer01 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID sgra erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID sgra erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID sgra erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID sgra erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID sgra erstellt.
+info: Erfolgreicher Login. JWT für CampusID sgra erstellt.
+info: Erfolgreicher Login. JWT für CampusID sgra erstellt.
+info: Erfolgreicher Login. JWT für CampusID sgra erstellt.
+info: Erfolgreicher Login. JWT für CampusID sgra erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID betreuer01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID betreuer01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID betreuer01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID sgra erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID normalprof erstellt.
+info: Erfolgreicher Login. JWT für CampusID user1 erstellt.
+info: Erfolgreicher Login. JWT für CampusID user2 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID wrongpass erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+warn: Anmeldeversuch fehlgeschlagen: CampusID prof01 nicht gefunden.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+warn: Anmeldeversuch fehlgeschlagen: CampusID prof01 nicht gefunden.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID sgra erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID otherprof erstellt.
+info: Erfolgreicher Login. JWT für CampusID notadmin erstellt.
+info: Erfolgreicher Login. JWT für CampusID otheradmin erstellt.
+info: Erfolgreicher Login. JWT für CampusID notowner erstellt.
+info: Erfolgreicher Login. JWT für CampusID sgra erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID otherprof erstellt.
+info: Erfolgreicher Login. JWT für CampusID notadmin erstellt.
+info: Erfolgreicher Login. JWT für CampusID otheradmin erstellt.
+info: Erfolgreicher Login. JWT für CampusID notowner erstellt.
+info: Erfolgreicher Login. JWT für CampusID sgra erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Anmeldeversuch fehlgeschlagen: CampusID admin01 nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: CampusID other01 nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: CampusID other01 nicht gefunden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Anmeldeversuch fehlgeschlagen: CampusID user01 nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: CampusID admin01 nicht gefunden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Anmeldeversuch fehlgeschlagen: CampusID other01 nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: CampusID admin01 nicht gefunden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Anmeldeversuch fehlgeschlagen: CampusID other01 nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: CampusID admin01 nicht gefunden.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID user01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID user01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Anmeldeversuch fehlgeschlagen: CampusID user01 nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: CampusID user01 nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: CampusID admin01 nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: CampusID admin01 nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: CampusID admin01 nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: CampusID admin01 nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: CampusID admin01 nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: CampusID admin01 nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: CampusID admin01 nicht gefunden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Anmeldeversuch fehlgeschlagen: CampusID user01 nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: CampusID user01 nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: CampusID admin01 nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: CampusID admin01 nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: CampusID admin01 nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: CampusID admin01 nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: CampusID admin01 nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: CampusID admin01 nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: CampusID admin01 nicht gefunden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID user01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID user01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID user01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID user01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID user01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID user01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID user01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID user01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID user01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID betreuer01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+info: Erfolgreicher Login. JWT für CampusID sgra erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+warn: Anmeldeversuch fehlgeschlagen: CampusID gibtsNicht nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+error: Fehler in verifyJWT: JsonWebTokenError: jwt malformed
+error: JWT ist nicht gueltig
+error: Fehler in verifyJWT: Error: Internal Server Error
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+error: Fehler in verifyJWT: JsonWebTokenError: invalid signature
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+error: Fehler in verifyJWT: TokenExpiredError: jwt expired
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof02 erstellt.
+info: Erfolgreicher Login. JWT für CampusID betreuer01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID betreuer01 erstellt.
+warn: Anmeldeversuch fehlgeschlagen: CampusID betreuer01 nicht gefunden.
+info: Erfolgreicher Login. JWT für CampusID betreuer01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID betreuer_fresh erstellt.
+info: Erfolgreicher Login. JWT für CampusID betreuer01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID betreuer_fresh erstellt.
+info: Erfolgreicher Login. JWT für CampusID betreuer_fresh erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID user01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID user01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID user01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID other01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID betreuer01 erstellt.
+info: Erfolgreicher Login. JWT für CampusID betreuer_fresh erstellt.
+info: Erfolgreicher Login. JWT für CampusID betreuer_fresh erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+warn: Anmeldeversuch fehlgeschlagen: CampusID gibtsNicht nicht gefunden.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+error: Fehler in verifyJWT: JsonWebTokenError: jwt malformed
+error: JWT ist nicht gueltig
+error: Fehler in verifyJWT: Error: Internal Server Error
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+error: Fehler in verifyJWT: JsonWebTokenError: invalid signature
+info: Erfolgreicher Login. JWT für CampusID prof01 erstellt.
+error: Fehler in verifyJWT: TokenExpiredError: jwt expired
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID prof01.
+info: Erfolgreicher Login. JWT für CampusID prof02 erstellt.
+info: Erfolgreicher Login. JWT für CampusID admin erstellt.
+info: Erfolgreicher Login. JWT für CampusID sgra erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:43181/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:35925/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:37477/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:37509/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:39735/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:45585/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:44055/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:42799/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:41079/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:38167/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:44167/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:37481/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:44123/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:40281/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:42669/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:41999/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:42765/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:39829/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:37645/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:43283/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:40545/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:40835/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:45329/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:37929/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:37939/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:42095/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:44043/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:38799/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:35859/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:42963/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:35361/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:40493/
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:43269/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:41793/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:43549/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:44839/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:34317/
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:45937/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:44967/
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:40129/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+warn: Anmeldeversuch fehlgeschlagen: CampusID tayebbsh nicht gefunden.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+warn: Anmeldeversuch fehlgeschlagen: CampusID 4598100 nicht gefunden.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:41837/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:36253/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:32991/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:42647/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:42331/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:37915/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:45995/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:38523/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:43663/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:42351/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:33023/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:36935/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:37575/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:37157/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Erfolgreicher Login. JWT für CampusID 459811 erstellt.
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:43035/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:34875/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:45127/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459811 erstellt.
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:36161/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:39399/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:41981/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:44231/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:41359/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:37991/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:42553/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:35241/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:46151/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:39527/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459811 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459811 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459811 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:44175/
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:35757/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:38675/
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:45859/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+warn: Anmeldeversuch fehlgeschlagen: CampusID djsks nicht gefunden.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:35969/
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:45623/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:35721/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:36921/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459811 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459811 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:38193/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:33683/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:36621/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+warn: Anmeldeversuch fehlgeschlagen: Falsches Passwort für CampusID 459810.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:35235/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+warn: Authentifizierung fehlgeschlagen: Kein Token im Cookie vorhanden.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:45691/

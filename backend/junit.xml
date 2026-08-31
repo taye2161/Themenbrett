@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="181" failures="0" errors="0" time="23.275">
+  <testsuite name="gebiet.test.ts" errors="0" failures="0" skipped="0" timestamp="2026-06-04T21:45:29" time="4.271" tests="14">
+    <testcase classname="gebiet.test.ts" name="GET /api/gebiet/alle liefert nur öffentliche Gebiete ohne Authentifizierung" time="0.26">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="GET /api/gebiet/alle liefert auch private Gebiete für den Verwalter" time="0.307">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="GET /api/gebiet/:id gibt 403 zurück, wenn ein privates Gebiet von einem anderen Benutzer angefragt wird" time="0.285">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="GET /api/gebiet/:id gibt 403 zurück, wenn privat und nicht authentifiziert" time="0.212">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="GET /api/gebiet/:id/themen gibt 403 zurück, wenn ein privates Gebiet von einem anderen Benutzer angefragt wird" time="0.281">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="POST /api/gebiet gibt 401 zurück, wenn nicht authentifiziert" time="0.219">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="POST /api/gebiet gibt 403 zurück, wenn ein normaler Benutzer versucht, ein Gebiet zu erstellen" time="0.287">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="POST /api/gebiet erlaubt admin Benutzern das Erstellen eines Gebiets" time="0.285">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="PUT /api/gebiet/:id gibt 401 zurück, wenn nicht authentifiziert" time="0.212">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="PUT /api/gebiet/:id gibt 403 zurück, wenn ein nicht-verwaltender Benutzer versucht, das Gebiet zu ändern" time="0.28">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="PUT /api/gebiet/:id erlaubt dem Verwalter, das Gebiet zu ändern" time="0.288">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="DELETE /api/gebiet/:id gibt 401 zurück, wenn nicht authentifiziert" time="0.211">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="DELETE /api/gebiet/:id gibt 403 zurück, wenn ein nicht-verwaltender Benutzer versucht, das Gebiet zu löschen" time="0.282">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="DELETE /api/gebiet/:id erlaubt dem Verwalter, das Gebiet zu löschen" time="0.283">
+    </testcase>
+  </testsuite>
+  <testsuite name="prof.test.ts" errors="0" failures="0" skipped="0" timestamp="2026-06-04T21:45:33" time="3.567" tests="10">
+    <testcase classname="prof.test.ts" name="POST /api/prof, Admin darf einen neuen Prof erstellen" time="0.367">
+    </testcase>
+    <testcase classname="prof.test.ts" name="POST /api/prof, Normaler Prof wird mit 403 abgewiesen" time="0.279">
+    </testcase>
+    <testcase classname="prof.test.ts" name="GET /api/prof/alle, Admin darf alle Profs abrufen" time="0.281">
+    </testcase>
+    <testcase classname="prof.test.ts" name="GET /api/prof/alle, Normaler Prof erhält 403 beim Abruf aller Profs" time="0.279">
+    </testcase>
+    <testcase classname="prof.test.ts" name="PUT /api/prof/:id/password, Normaler Prof darf nicht das Passwort eines anderen ändern" time="0.354">
+    </testcase>
+    <testcase classname="prof.test.ts" name="PUT /api/prof/:id/, Normaler Prof darf nicht einen anderen Prof ändern" time="0.349">
+    </testcase>
+    <testcase classname="prof.test.ts" name="DELETE /api/prof/:id/, Normaler Prof darf nicht einen anderen Prof löschen" time="0.347">
+    </testcase>
+    <testcase classname="prof.test.ts" name="PUT /api/prof/:id/password, Benutzer darf sein eigenes Passwort erfolgreich ändern" time="0.419">
+    </testcase>
+    <testcase classname="prof.test.ts" name="PUT /api/prof/:id/password, Benutzer wird mit 403 abgelehnt, wenn er ein fremdes Passwort ändern will" time="0.286">
+    </testcase>
+    <testcase classname="prof.test.ts" name="PUT /api/prof/:id/password, liefert 400, wenn das alte Passwort falsch eingegeben wurde" time="0.347">
+    </testcase>
+  </testsuite>
+  <testsuite name="thema.test.ts" errors="0" failures="0" skipped="0" timestamp="2026-06-04T21:45:37" time="2.972" tests="9">
+    <testcase classname="thema.test.ts" name="POST /api/thema gibt 401 zurück, wenn nicht authentifiziert" time="0.231">
+    </testcase>
+    <testcase classname="thema.test.ts" name="POST /api/thema gibt 403 zurück, wenn ein anderes privates Gebiet genutzt wird" time="0.286">
+    </testcase>
+    <testcase classname="thema.test.ts" name="POST /api/thema erlaubt einen normalen Benutzer für öffentliches Gebiet" time="0.284">
+    </testcase>
+    <testcase classname="thema.test.ts" name="GET /api/thema/:id gibt 403 zurück, wenn ein privates Thema von einem Fremden abgefragt wird" time="0.353">
+    </testcase>
+    <testcase classname="thema.test.ts" name="GET /api/thema/:id erlaubt dem Betreuer privaten Zugriff" time="0.286">
+    </testcase>
+    <testcase classname="thema.test.ts" name="GET /api/thema/:id erlaubt dem Verwalter privaten Zugriff" time="0.283">
+    </testcase>
+    <testcase classname="thema.test.ts" name="PUT /api/thema/:id gibt 403 zurück, wenn weder Betreuer noch Verwalter sind" time="0.356">
+    </testcase>
+    <testcase classname="thema.test.ts" name="DELETE /api/thema/:id gibt 403 zurück, wenn weder Betreuer noch Verwalter sind" time="0.353">
+    </testcase>
+    <testcase classname="thema.test.ts" name="DELETE /api/thema/:id erlaubt dem Betreuer das Thema zu löschen" time="0.282">
+    </testcase>
+  </testsuite>
+  <testsuite name="thema.test.ts" errors="0" failures="0" skipped="0" timestamp="2026-06-04T21:45:40" time="1.536" tests="12">
+    <testcase classname="thema.test.ts" name="POST, einfacher Positivtest zum Erstellen eines Themas" time="0.077">
+    </testcase>
+    <testcase classname="thema.test.ts" name="GET, einfacher Positivtest zum Abrufen eines Themas" time="0.076">
+    </testcase>
+    <testcase classname="thema.test.ts" name="PUT, einfacher Positivtest zum Aktualisieren eines Themas" time="0.148">
+    </testcase>
+    <testcase classname="thema.test.ts" name="DELETE, einfacher Positivtest zum Löschen eines Themas" time="0.154">
+    </testcase>
+    <testcase classname="thema.test.ts" name="POST, Fehler wenn das Gebiet nicht existiert" time="0.073">
+    </testcase>
+    <testcase classname="thema.test.ts" name="GET, Fehlerhafte ID liefert 400" time="0.073">
+    </testcase>
+    <testcase classname="thema.test.ts" name="PUT, Fehler wenn Thema nicht existiert" time="0.074">
+    </testcase>
+    <testcase classname="thema.test.ts" name="DELETE, Fehler wenn Thema nicht existiert" time="0.073">
+    </testcase>
+    <testcase classname="thema.test.ts" name="GET, 404 wenn getThema null zurückgibt" time="0.072">
+    </testcase>
+    <testcase classname="thema.test.ts" name="PUT, 404 wenn getThema null zurückgibt" time="0.073">
+    </testcase>
+    <testcase classname="thema.test.ts" name="DELETE, 404 wenn getThema null zurückgibt" time="0.072">
+    </testcase>
+    <testcase classname="thema.test.ts" name="POST, 400 Fehler bei fehlenden Pflichtfeldern (Validierung)" time="0.072">
+    </testcase>
+  </testsuite>
+  <testsuite name="prof.test.ts" errors="0" failures="0" skipped="0" timestamp="2026-06-04T21:45:41" time="1.211" tests="16">
+    <testcase classname="prof.test.ts" name="POST, einfacher Positivtest" time="0.074">
+    </testcase>
+    <testcase classname="prof.test.ts" name="PUT, einfacher Positivtest" time="0.076">
+    </testcase>
+    <testcase classname="prof.test.ts" name="DELETE, einfacher Positivtest" time="0.073">
+    </testcase>
+    <testcase classname="prof.test.ts" name="GET, einfacher Positivtest" time="0.142">
+    </testcase>
+    <testcase classname="prof.test.ts" name="GET /api/prof, sollte 405 zurueckgeben" time="0.002">
+    </testcase>
+    <testcase classname="prof.test.ts" name="GET /api/prof/:id, sollte 405 zurueckgeben" time="0.072">
+    </testcase>
+    <testcase classname="prof.test.ts" name="PUT /api/prof/alle, sollte 405 zurueckgeben" time="0.003">
+    </testcase>
+    <testcase classname="prof.test.ts" name="PUT /api/prof/:id mit mismatched ID, sollte 400 zurueckgeben" time="0.072">
+    </testcase>
+    <testcase classname="prof.test.ts" name="PUT /api/prof/:id/password, einfacher Positivtest" time="0.208">
+    </testcase>
+    <testcase classname="prof.test.ts" name="PUT /api/prof/:id/password, Fehler bei falscher ID" time="0.003">
+    </testcase>
+    <testcase classname="prof.test.ts" name="DELETE /api/prof/alle, sollte 405 zurueckgeben" time="0.002">
+    </testcase>
+    <testcase classname="prof.test.ts" name="DELETE /api/prof/:id, Fehler wenn nicht gefunden" time="0.002">
+    </testcase>
+    <testcase classname="prof.test.ts" name="POST, Fehler wenn createProf schlaegt fehl" time="0.002">
+    </testcase>
+    <testcase classname="prof.test.ts" name="PUT, Fehler wenn updateProf schlaegt fehl" time="0.073">
+    </testcase>
+    <testcase classname="prof.test.ts" name="POST, 401 Fehler wenn nicht authentifiziert" time="0.004">
+    </testcase>
+    <testcase classname="prof.test.ts" name="DELETE, 401 Fehler wenn nicht authentifiziert" time="0.003">
+    </testcase>
+  </testsuite>
+  <testsuite name="ProfService.test.ts" errors="0" failures="0" skipped="0" timestamp="2026-06-04T21:45:43" time="0.941" tests="8">
+    <testcase classname="ProfService.test.ts" name="sollte einen Prof speichern und kein Passwort zurückgeben" time="0.084">
+    </testcase>
+    <testcase classname="ProfService.test.ts" name="sollte Prof-Daten aktualisieren" time="0.075">
+    </testcase>
+    <testcase classname="ProfService.test.ts" name="sollte Fehler werfen bei ungültiger ID" time="0.007">
+    </testcase>
+    <testcase classname="ProfService.test.ts" name="sollte Prof und abhängige Gebiete löschen" time="0.077">
+    </testcase>
+    <testcase classname="ProfService.test.ts" name="sollte Fehler werfen wenn ProfID nicht existiert" time="0.001">
+    </testcase>
+    <testcase classname="ProfService.test.ts" name="sollte Passwort bei korrekter Eingabe ändern" time="0.277">
+    </testcase>
+    <testcase classname="ProfService.test.ts" name="sollte Fehler werfen bei falschem altem Passwort" time="0.14">
+    </testcase>
+    <testcase classname="ProfService.test.ts" name="sollte alle Profs ohne Passwörter zurückgeben" time="0.14">
+    </testcase>
+  </testsuite>
+  <testsuite name="JWTService.test.ts" errors="0" failures="0" skipped="0" timestamp="2026-06-04T21:45:44" time="0.917" tests="8">
+    <testcase classname="JWTService.test.ts" name="gibt gueltiges JWT zurueck wenn Prof existiert und Passwort stimmt" time="0.15">
+    </testcase>
+    <testcase classname="JWTService.test.ts" name="sollte undefined zurueckgeben wenn die campusID nicht existiert" time="0.002">
+    </testcase>
+    <testcase classname="JWTService.test.ts" name="sollte undefined zurueckgeben wenn das Passwort falsch ist" time="0.14">
+    </testcase>
+    <testcase classname="JWTService.test.ts" name="sollte gueltiges token erfolgreich verifizieren und eine LoginResource zurueckgeben" time="0.139">
+    </testcase>
+    <testcase classname="JWTService.test.ts" name="sollte Fehler werfen bei ungueltigem Token" time="0.01">
+    </testcase>
+    <testcase classname="JWTService.test.ts" name="sollte einen Fehler werfen, wenn kein Token (undefined) übergeben wird" time="0.002">
+    </testcase>
+    <testcase classname="JWTService.test.ts" name="sollte einen Fehler werfen, wenn das Token mit einem anderen Secret signiert wurde" time="0.14">
+    </testcase>
+    <testcase classname="JWTService.test.ts" name="sollte einen Fehler werfen, wenn das Token abgelaufen ist" time="0.139">
+    </testcase>
+  </testsuite>
+  <testsuite name="ThemaService.test.ts" errors="0" failures="0" skipped="0" timestamp="2026-06-04T21:45:45" time="0.778" tests="13">
+    <testcase classname="ThemaService.test.ts" name="sollte alle Themen eines Gebietes zurückgeben" time="0.107">
+    </testcase>
+    <testcase classname="ThemaService.test.ts" name="sollte Fehler werfen wenn Gebiet für getAlleThemen nicht existiert" time="0.009">
+    </testcase>
+    <testcase classname="ThemaService.test.ts" name="sollte ein Thema nach ID zurückgeben" time="0.073">
+    </testcase>
+    <testcase classname="ThemaService.test.ts" name="sollte Fehler werfen wenn Thema nicht gefunden wird" time="0.001">
+    </testcase>
+    <testcase classname="ThemaService.test.ts" name="sollte ein Thema erstellen" time="0.076">
+    </testcase>
+    <testcase classname="ThemaService.test.ts" name="sollte Fehler werfen wenn Gebiet für createThema nicht existiert" time="0.002">
+    </testcase>
+    <testcase classname="ThemaService.test.ts" name="sollte Fehler werfen wenn Thema in geschlossenem Gebiet erstellt wird" time="0.076">
+    </testcase>
+    <testcase classname="ThemaService.test.ts" name="sollte Fehler werfen bei duplicate Thema für den gleichen Betreuer" time="0.075">
+    </testcase>
+    <testcase classname="ThemaService.test.ts" name="sollte ein Thema aktualisieren" time="0.078">
+    </testcase>
+    <testcase classname="ThemaService.test.ts" name="sollte Fehler werfen wenn beim Aktualisieren kein Thema existiert" time="0.002">
+    </testcase>
+    <testcase classname="ThemaService.test.ts" name="sollte Fehler werfen wenn ein anderes Thema mit gleichem Titel und Betreuer existiert" time="0.074">
+    </testcase>
+    <testcase classname="ThemaService.test.ts" name="sollte ein Thema löschen" time="0.072">
+    </testcase>
+    <testcase classname="ThemaService.test.ts" name="sollte Fehler werfen wenn das Thema nicht existiert" time="0.002">
+    </testcase>
+  </testsuite>
+  <testsuite name="thema.validation.test.ts" errors="0" failures="0" skipped="0" timestamp="2026-06-04T21:45:45" time="0.813" tests="7">
+    <testcase classname="thema.validation.test.ts" name="POST, fehlender Titel" time="0.135">
+    </testcase>
+    <testcase classname="thema.validation.test.ts" name="POST, fehlende Beschreibung" time="0.074">
+    </testcase>
+    <testcase classname="thema.validation.test.ts" name="POST, ungültige Gebiets-ID" time="0.073">
+    </testcase>
+    <testcase classname="thema.validation.test.ts" name="POST, ungültige Betreuer-ID" time="0.072">
+    </testcase>
+    <testcase classname="thema.validation.test.ts" name="GET, fehlerhafte ID liefert Validation-Fehler" time="0.073">
+    </testcase>
+    <testcase classname="thema.validation.test.ts" name="PUT, fehlende ID im Body oder falsche URL-Id" time="0.073">
+    </testcase>
+    <testcase classname="thema.validation.test.ts" name="DELETE, fehlerhafte ID liefert Validation-Fehler" time="0.073">
+    </testcase>
+  </testsuite>
+  <testsuite name="login.test.ts" errors="0" failures="0" skipped="0" timestamp="2026-06-04T21:45:46" time="0.673" tests="6">
+    <testcase classname="login.test.ts" name="/api/login POST, Positivtest" time="0.16">
+    </testcase>
+    <testcase classname="login.test.ts" name="/api/login POST, Negativtest (Falsches Passwort)" time="0.143">
+    </testcase>
+    <testcase classname="login.test.ts" name="/api/login POST, Validierungsfehler" time="0.002">
+    </testcase>
+    <testcase classname="login.test.ts" name="/api/login GET, Positivtest (Eingeloggt)" time="0.146">
+    </testcase>
+    <testcase classname="login.test.ts" name="/api/login GET, Negativtest (Nicht eingeloggt)" time="0.003">
+    </testcase>
+    <testcase classname="login.test.ts" name="/api/login DELETE, Erfolgreicher Logout" time="0.002">
+    </testcase>
+  </testsuite>
+  <testsuite name="ProfHooks.test.ts" errors="0" failures="0" skipped="0" timestamp="2026-06-04T21:45:47" time="0.714" tests="4">
+    <testcase classname="ProfHooks.test.ts" name="save hook wird abgefangen und passwort gehashed" time="0.149">
+    </testcase>
+    <testcase classname="ProfHooks.test.ts" name="updateOne hook wird gefangen und passwort gehashed" time="0.209">
+    </testcase>
+    <testcase classname="ProfHooks.test.ts" name="findOneAndUpdate hook wird gefangen und passwort gehashed" time="0.208">
+    </testcase>
+    <testcase classname="ProfHooks.test.ts" name="isCorrectPassword wirft Fehler, weil Passwort noch nicht gespeichert und gehashed wurde" time="0.005">
+    </testcase>
+  </testsuite>
+  <testsuite name="GebietService.test.ts" errors="0" failures="0" skipped="0" timestamp="2026-06-04T21:45:48" time="0.682" tests="9">
+    <testcase classname="GebietService.test.ts" name="sollte nur öffentliche und eigene Gebiete zurückgeben" time="0.17">
+    </testcase>
+    <testcase classname="GebietService.test.ts" name="sollte nur öffentliche Gebiete zurückgeben wenn keine ProfID angegeben ist" time="0.073">
+    </testcase>
+    <testcase classname="GebietService.test.ts" name="sollte ein Gebiet nach ID zurückgeben" time="0.072">
+    </testcase>
+    <testcase classname="GebietService.test.ts" name="sollte einen Fehler werfen wenn Gebiet nicht gefunden wird" time="0.008">
+    </testcase>
+    <testcase classname="GebietService.test.ts" name="sollte ein Gebiet erstellen" time="0.073">
+    </testcase>
+    <testcase classname="GebietService.test.ts" name="sollte ein Gebiet aktualisieren" time="0.074">
+    </testcase>
+    <testcase classname="GebietService.test.ts" name="sollte einen Fehler werfen wenn beim Aktualisieren kein Gebiet existiert" time="0.002">
+    </testcase>
+    <testcase classname="GebietService.test.ts" name="sollte Gebiet und zugehörige Themen löschen" time="0.075">
+    </testcase>
+    <testcase classname="GebietService.test.ts" name="sollte einen Fehler werfen wenn das Gebiet nicht existiert" time="0.002">
+    </testcase>
+  </testsuite>
+  <testsuite name="prof.auth.test.ts" errors="0" failures="0" skipped="0" timestamp="2026-06-04T21:45:48" time="0.633" tests="3">
+    <testcase classname="prof.auth.test.ts" name="POST, einfacher Positivtest" time="0.074">
+    </testcase>
+    <testcase classname="prof.auth.test.ts" name="PUT, einfacher Positivtest" time="0.086">
+    </testcase>
+    <testcase classname="prof.auth.test.ts" name="DELETE, einfacher Positivtest" time="0.074">
+    </testcase>
+  </testsuite>
+  <testsuite name="gebiet.test.ts" errors="0" failures="0" skipped="0" timestamp="2026-06-04T21:45:49" time="0.528" tests="18">
+    <testcase classname="gebiet.test.ts" name="GET, einfacher Positivtest zum Zugreifen auf alle Objekte" time="0.004">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="POST, einfacher Positivtest zum erstellen von neuen Objekten" time="0.004">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="GET, einfacher Positivtest zum Zugreifen auf Daten" time="0.003">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="PUT, einfacher Positivtest zum aendern von Daten" time="0.005">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="DELETE, einfacher Positivtest zum loeschen von Objekten" time="0.014">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="GET, einfacher Positivtest zum Zurueckgeben aller Themen eines Gebiets" time="0.08">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="POST, Fehler wenn createGebiet schlaegt fehl" time="0.002">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="GET /:id, 404 wenn gebiet nicht existiert" time="0.002">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="GET /:id, 400 bei Exception" time="0.002">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="PUT /:id, 404 wenn gebiet nicht existiert" time="0.002">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="PUT /:id, 400 bei Exception" time="0.002">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="DELETE /:id, 404 wenn gebiet nicht existiert" time="0.003">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="DELETE /:id, 400 bei Exception" time="0.002">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="GET /:id/themen, 404 wenn gebiet nicht existiert" time="0.002">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="GET /:id/themen, 400 bei Exception" time="0.003">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="POST, 401 wenn nicht authentifiziert" time="0.003">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="PUT, 401 wenn nicht authentifiziert" time="0.003">
+    </testcase>
+    <testcase classname="gebiet.test.ts" name="DELETE, 401 wenn nicht authentifiziert" time="0.003">
+    </testcase>
+  </testsuite>
+  <testsuite name="prof.validation.test.ts" errors="0" failures="0" skipped="0" timestamp="2026-06-04T21:45:49" time="0.531" tests="6">
+    <testcase classname="prof.validation.test.ts" name="POST, fehlende CampusID" time="0.009">
+    </testcase>
+    <testcase classname="prof.validation.test.ts" name="POST, ungültiges Admin-Feld" time="0.012">
+    </testcase>
+    <testcase classname="prof.validation.test.ts" name="PUT, fehlende Body-ID" time="0.08">
+    </testcase>
+    <testcase classname="prof.validation.test.ts" name="PUT, Konsistenz ID in Parameter und Body" time="0.141">
+    </testcase>
+    <testcase classname="prof.validation.test.ts" name="PUT /password, fehlendes neues Passwort" time="0.076">
+    </testcase>
+    <testcase classname="prof.validation.test.ts" name="DELETE, keine MongoID" time="0.003">
+    </testcase>
+  </testsuite>
+  <testsuite name="AuthenticationService.test.ts" errors="0" failures="0" skipped="0" timestamp="2026-06-04T21:45:50" time="0.504" tests="3">
+    <testcase classname="AuthenticationService.test.ts" name="login sollte bei korrekten Daten ID und Rolle &apos;a&apos; zurückgeben" time="0.151">
+    </testcase>
+    <testcase classname="AuthenticationService.test.ts" name="login sollte bei falscher Campus-ID false zurückgeben" time="0.074">
+    </testcase>
+    <testcase classname="AuthenticationService.test.ts" name="login sollte bei falschem Passwort false zurückgeben" time="0.139">
+    </testcase>
+  </testsuite>
+  <testsuite name="https.test.ts" errors="0" failures="0" skipped="0" timestamp="2026-06-04T21:45:50" time="0.316" tests="1">
+    <testcase classname="https.test.ts" name="https test" time="0.11">
+    </testcase>
+  </testsuite>
+  <testsuite name="ThemaModel.test.ts" errors="0" failures="0" skipped="0" timestamp="2026-06-04T21:45:51" time="0.335" tests="4">
+    <testcase classname="ThemaModel.test.ts" name="richtige default values" time="0.004">
+    </testcase>
+    <testcase classname="ThemaModel.test.ts" name="fehler wenn eine oder mehrere required properties fehlen" time="0.006">
+    </testcase>
+    <testcase classname="ThemaModel.test.ts" name="fehler bei ungueltigen IDs" time="0.003">
+    </testcase>
+    <testcase classname="ThemaModel.test.ts" name="updatedAt soll bei Aenderung aktualisiert werden" time="0.104">
+    </testcase>
+  </testsuite>
+  <testsuite name="gebiet.validation.test.ts" errors="0" failures="0" skipped="0" timestamp="2026-06-04T21:45:51" time="0.268" tests="8">
+    <testcase classname="gebiet.validation.test.ts" name="POST, fehlender Name" time="0.011">
+    </testcase>
+    <testcase classname="gebiet.validation.test.ts" name="POST, fehlender Verwalter" time="0.007">
+    </testcase>
+    <testcase classname="gebiet.validation.test.ts" name="POST, ungültige Verwalter-ID" time="0.003">
+    </testcase>
+    <testcase classname="gebiet.validation.test.ts" name="POST, ungültiges public-Feld" time="0.002">
+    </testcase>
+    <testcase classname="gebiet.validation.test.ts" name="GET /:id, fehlerhafte ID liefert Validation-Fehler" time="0.002">
+    </testcase>
+    <testcase classname="gebiet.validation.test.ts" name="GET /:id/themen, fehlerhafte ID liefert Validation-Fehler" time="0.001">
+    </testcase>
+    <testcase classname="gebiet.validation.test.ts" name="PUT /:id, inkonsistente Body.id erzeugt Validierungsfehler" time="0.002">
+    </testcase>
+    <testcase classname="gebiet.validation.test.ts" name="DELETE /:id, fehlerhafte ID liefert Validation-Fehler" time="0.002">
+    </testcase>
+  </testsuite>
+  <testsuite name="ProfModel.test.ts" errors="0" failures="0" skipped="0" timestamp="2026-06-04T21:45:51" time="0.27" tests="3">
+    <testcase classname="ProfModel.test.ts" name="richtige default values" time="0.002">
+    </testcase>
+    <testcase classname="ProfModel.test.ts" name="fehler wenn eine oder mehrere required values fehlen" time="0.004">
+    </testcase>
+    <testcase classname="ProfModel.test.ts" name="fehler wenn unique constraint nicht eingehalten wird" time="0.152">
+    </testcase>
+  </testsuite>
+  <testsuite name="GebietModel.test.ts" errors="0" failures="0" skipped="0" timestamp="2026-06-04T21:45:52" time="0.229" tests="5">
+    <testcase classname="GebietModel.test.ts" name="richtige default values" time="0.002">
+    </testcase>
+    <testcase classname="GebietModel.test.ts" name="fehler wenn name(required) fehlt" time="0.004">
+    </testcase>
+    <testcase classname="GebietModel.test.ts" name="fehler wenn unique constraint nicht eingehalten wird" time="0.009">
+    </testcase>
+    <testcase classname="GebietModel.test.ts" name="fehler wenn verwalter keine gueltige ID hat" time="0.002">
+    </testcase>
+    <testcase classname="GebietModel.test.ts" name="soll automatisch createdAt Datum setzen" time="0.002">
+    </testcase>
+  </testsuite>
+  <testsuite name="ServiceHelper.test.ts" errors="0" failures="0" skipped="0" timestamp="2026-06-04T21:45:52" time="0.114" tests="5">
+    <testcase classname="ServiceHelper.test.ts" name="dateToString zweistellig" time="0">
+    </testcase>
+    <testcase classname="ServiceHelper.test.ts" name="dateToString einstellig" time="0">
+    </testcase>
+    <testcase classname="ServiceHelper.test.ts" name="stringToDate zweistellig" time="0">
+    </testcase>
+    <testcase classname="ServiceHelper.test.ts" name="stringToDate einstellig mit Null" time="0">
+    </testcase>
+    <testcase classname="ServiceHelper.test.ts" name="stringToDate einstellig ohne Null" time="0">
+    </testcase>
+  </testsuite>
+  <testsuite name="Model.formal.test.ts" errors="0" failures="0" skipped="0" timestamp="2026-06-04T21:45:52" time="0.166" tests="9">
+    <testcase classname="Model.formal.test.ts" name="File &quot;src/model/ProfModel.ts&quot; is present" time="0.001">
+    </testcase>
+    <testcase classname="Model.formal.test.ts" name="File &quot;src/model/GebietModel.ts&quot; is present" time="0">
+    </testcase>
+    <testcase classname="Model.formal.test.ts" name="File &quot;src/model/ThemaModel.ts&quot; is present" time="0">
+    </testcase>
+    <testcase classname="Model.formal.test.ts" name="File &quot;tests/model/ProfModel.test.ts&quot; is present" time="0.001">
+    </testcase>
+    <testcase classname="Model.formal.test.ts" name="File &quot;tests/model/GebietModel.test.ts&quot; is present" time="0">
+    </testcase>
+    <testcase classname="Model.formal.test.ts" name="File &quot;tests/model/ThemaModel.test.ts&quot; is present" time="0">
+    </testcase>
+    <testcase classname="Model.formal.test.ts" name="Model class &quot;Prof&quot; defined and exported" time="0.001">
+    </testcase>
+    <testcase classname="Model.formal.test.ts" name="Model class &quot;Gebiet&quot; defined and exported" time="0.001">
+    </testcase>
+    <testcase classname="Model.formal.test.ts" name="Model class &quot;Thema&quot; defined and exported" time="0">
+    </testcase>
+  </testsuite>
+</testsuites>
