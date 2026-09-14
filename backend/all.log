@@ -1218,3 +1218,8 @@ info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
 info: Erfolgreicher Login. JWT für CampusID 459810 erstellt.
 info: Start MongoMemoryServer
 info: Connect to mongod at mongodb://127.0.0.1:45691/
+info: Start MongoMemoryServer
+info: Connect to mongod at mongodb://127.0.0.1:59084/
+info: Prefill DB with test data, campusID: 459810, password 123_abc_ABC
+info: 🔒 Starting server in HTTPS mode
+info: Listening for HTTPS at https://localhost:3001
