@@ -1,0 +1,20 @@
+image: jevopi/we:SS26d
+
+stages:
+  - test
+
+javascript:
+  stage: test
+  variables:
+    # MongoDB Version see package.json
+    NODE_OPTIONS: "--max-old-space-size=4096"
+  script:
+    # ci is like install, but faster (and we need a synchronized package-lock.json)
+    - npm ci
+    # - npm run build # we use ts-jest, no need for compilation
+    - npm test
+  coverage: '/All files\s*\|\s+([\d\.]+)\s*\|.*/'
+  artifacts:
+    reports:
+      junit:
+        - junit.xml
