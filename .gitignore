@@ -1,7 +1,13 @@
-cert
-node_modules
-coverage
+cert/
+node_modules/
+.env
+coverage/
 *.zip
+dist/
+build/
+junit.xml
 ailog.md
+*.log
 *.jpg
-.DS*
+.vscode/
+.DS_Store
